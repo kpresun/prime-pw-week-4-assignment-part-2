@@ -1,0 +1,28 @@
+header {
+background-color: #007acc;
+}
+
+body {
+  background-color: #e6e600;
+  color: #66ccff;
+}
+
+h1, h2, h3, p{
+  font-size: 14px;
+  text-align: center;
+}
+
+h2, h3 {
+  background-color: #ff6600;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.sectionbody {
+  border: 2px solid;
+}
